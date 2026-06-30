@@ -13,7 +13,7 @@
 
 ## 🏢 Professional Background  
 **Intern – Oasis Infobyte**  
-- Enhanced skills in **web development, backend implementation, and project execution**  
+- Enhanced skills in **java development, backend implementation, and project execution**  
 - Hands-on experience in **problem-solving, mentorship, and collaborative teamwork**  
 - Exposure to structured workflows and Agile practices  
 
