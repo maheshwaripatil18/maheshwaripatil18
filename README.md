@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Maheshwari Patil 👋</h1>
-<p align="center">I build Web applications, AI applications, and full-stack projects integrated with cloud technologies.</p>  
+<p align="center">I build Web applications, AI applications, and full-stack projects integrated with cloud technologies.</p>    
 
 ---
 
